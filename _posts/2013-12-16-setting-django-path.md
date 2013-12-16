@@ -12,7 +12,7 @@ tags: Python Django
 假设下载的Django在目录c:\Django下。在Django目录中有个`setup.py`,打开'cmd.exe'输入'python c:\Django\setup.py install',然后等待自动安装。  
 
 ##### 2. 配置系统环境
-假设 Python 安装在`c:\Python27`, Django 就安装在`c:\Python27\Lib\site-packages\django\bin`。  
+假设 Python 安装在`c:\Python27`, Django 就安装在`c:\Python27\Lib\site-packages\django\bin`。将其添加到`path`中。  
 
 ##### 3.测试 Django 是否安装成功
 打开 IDLE，输入`import django`，如果没有报错，Django 安装成功。
