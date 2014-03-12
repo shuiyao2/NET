@@ -1,7 +1,7 @@
 ---
 date: 2014-03-12 18:08:00+00:00
 layout: post
-title: '记第一次折腾流水账'
+title:  '[Python 标准库] 第二章 数据结构' 
 categories: 读书笔记
 tags: Python
 ---
