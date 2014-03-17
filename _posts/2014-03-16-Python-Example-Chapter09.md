@@ -1,7 +1,7 @@
 ---
 date: 2014-03-16 17:00:00+00:00
 layout: post
-title:  '[Python 标准库] 第八章 数据压缩与归档'
+title:  '[Python 标准库] 第九章 加密'
 categories: 读书笔记
 tags: Python
 ---
