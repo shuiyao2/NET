@@ -1,7 +1,7 @@
 ---
 date: 2014-03-20 23:00:00+00:00
 layout: post
-title:  '[Python 标准库] 第十四章 应用构建模块'
+title:  '[Python 标准库] 第十五章 国际化和本地化'
 categories: 读书笔记
 tags: Python
 ---
